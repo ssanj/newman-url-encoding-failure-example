@@ -9,7 +9,7 @@ import java.net.URI
 import com.twitter.util.Duration
 import scala.concurrent.ExecutionContext.Implicits.global
 
-object URLWithSpecialCharactersSample extends App {
+object NewmanURLEncodingFailureExample extends App {
 
 
   val url = new URL("http://fonts.googleapis.com/css?family=Cabin+Sketch:700|Duru+Sans")

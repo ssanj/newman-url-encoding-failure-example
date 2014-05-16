@@ -1,4 +1,4 @@
-name := "example-failure"
+name := "newman-url-encoding-failure-example"
 
 version := "1.0"
 
